@@ -5,7 +5,7 @@ This is a collection of various skins I have written for Rainmeter, the open sou
 # Instructions
 Install the latest version of Rainmeter. In the folder of each skin, there is a .rmskin file, download it, double click it and install it with all components ticked. If you want to see the code of the skin, in the skins file the .ini file should provide you with everything you might want to know. Customize the installed skins by editing the .ini file under /Documents/Rainmeter/Skins/Skin_Name/.
 
-# Script Descriptions
+# Skins Descriptions
 
 >VaderNoooo Button: Places a Vader-Head icon on your desktop that when clicked plays the iconic "NOOOOOOOO" sound. Inspired by http://www.nooooooooooooooo.com/
 
